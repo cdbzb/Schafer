@@ -1,3 +1,4 @@
+ redgreen = {
  a c a a a a c c a c c c
  a a c a c c a a a c c c
  c a a a c a a c c a c c
@@ -922,3 +923,4 @@
  a c c c a c c a a c a a
  c c a c a a c c c a a a
  c a c c c c a a c a a a
+ }

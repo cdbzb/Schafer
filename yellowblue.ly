@@ -1,3 +1,4 @@
+yellowblue={
  fis fis fis fis fis fis d d d d d d
  d fis fis fis fis fis d d fis d d d
  fis d fis fis d d fis fis fis d d d
@@ -922,3 +923,4 @@
  d fis d d fis fis d d d fis fis fis
  fis d d d d d fis fis d fis fis fis
  d d d d d d fis fis fis fis fis fis
+ }
